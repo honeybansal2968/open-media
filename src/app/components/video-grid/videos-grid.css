@@ -1,4 +1,3 @@
-/* grid view css */
 #videos-grid {
     display: grid;
     grid: repeat(2, 200px) / auto-flow 200px;
